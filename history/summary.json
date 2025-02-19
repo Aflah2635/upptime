@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 58,
-    "timeWeek": 67,
+    "timeDay": 114,
+    "timeWeek": 78,
     "timeMonth": 116,
     "timeYear": 127,
     "dailyMinutesDown": {}
@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/aflahtic.netlify.app.ico",
     "slug": "tic",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 166,
-    "timeDay": 140,
-    "timeWeek": 91,
-    "timeMonth": 110,
-    "timeYear": 166,
-    "dailyMinutesDown": {
-      "2025-02-18": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 165,
+    "timeDay": 154,
+    "timeWeek": 98,
+    "timeMonth": 109,
+    "timeYear": 165,
+    "dailyMinutesDown": {}
   }
 ]
