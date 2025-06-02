@@ -4,7 +4,7 @@
     "url": "https://aflah.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/aflah.netlify.app.ico",
     "slug": "aflah",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 227,
     "timeMonth": 166,
     "timeYear": 148,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-02": 0
+    }
   },
   {
     "name": "TIC",
