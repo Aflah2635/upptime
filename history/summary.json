@@ -24,17 +24,17 @@
     "slug": "tic",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 175,
+    "time": 176,
     "timeDay": 1729,
     "timeWeek": 562,
     "timeMonth": 282,
-    "timeYear": 175,
+    "timeYear": 176,
     "dailyMinutesDown": {
-      "2025-06-07": 0
+      "2025-06-07": 12
     }
   }
 ]
