@@ -22,17 +22,19 @@
     "url": "https://aflahtic.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/aflahtic.netlify.app.ico",
     "slug": "tic",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 161,
-    "timeDay": 373,
-    "timeWeek": 201,
-    "timeMonth": 192,
-    "timeYear": 161,
-    "dailyMinutesDown": {}
+    "time": 175,
+    "timeDay": 1729,
+    "timeWeek": 562,
+    "timeMonth": 282,
+    "timeYear": 175,
+    "dailyMinutesDown": {
+      "2025-06-07": 0
+    }
   }
 ]
