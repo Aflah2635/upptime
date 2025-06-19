@@ -4,35 +4,39 @@
     "url": "https://aflah.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/aflah.netlify.app.ico",
     "slug": "aflah",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 149,
-    "timeDay": 111,
-    "timeWeek": 173,
-    "timeMonth": 164,
-    "timeYear": 149,
-    "dailyMinutesDown": {}
+    "time": 157,
+    "timeDay": 1060,
+    "timeWeek": 351,
+    "timeMonth": 222,
+    "timeYear": 157,
+    "dailyMinutesDown": {
+      "2025-06-19": 0
+    }
   },
   {
     "name": "TIC",
     "url": "https://aflahtic.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/aflahtic.netlify.app.ico",
     "slug": "tic",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 35,
-    "timeWeek": 209,
-    "timeMonth": 276,
-    "timeYear": 175,
-    "dailyMinutesDown": {}
+    "time": 183,
+    "timeDay": 1055,
+    "timeWeek": 406,
+    "timeMonth": 328,
+    "timeYear": 183,
+    "dailyMinutesDown": {
+      "2025-06-19": 0
+    }
   }
 ]
