@@ -6,18 +6,16 @@
     "slug": "aflah",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 157,
     "timeDay": 737,
     "timeWeek": 323,
     "timeMonth": 218,
     "timeYear": 157,
-    "dailyMinutesDown": {
-      "2025-06-19": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TIC",
@@ -26,17 +24,15 @@
     "slug": "tic",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 182,
     "timeDay": 733,
     "timeWeek": 371,
     "timeMonth": 322,
     "timeYear": 182,
-    "dailyMinutesDown": {
-      "2025-06-19": 13
-    }
+    "dailyMinutesDown": {}
   }
 ]
